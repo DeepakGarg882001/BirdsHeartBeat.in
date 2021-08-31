@@ -1,0 +1,63 @@
+*margin:0%
+ padding:0%
+ 
+body{
+	background-color:#ffffff;
+}
+.container{
+	background-color:  #1A237E ;
+	border: 2px solid #3742fa;
+    width: 100%;
+    margin-left: 2%;
+}
+.header{
+border:2px }
+	
+
+.heading{
+	margin-right: 50%;
+	float: right;
+	color: white;
+	margin-top: -13%;
+	/*margin-top: -10%;*/
+}
+
+.profilepic img{
+	margin-top: 3%;
+	margin-left: 2%;
+	height: 150px;
+	width: 150px;
+	border-radius: 60%;
+	border:2px solid white;
+	/*margin-left: 5%;*/
+}
+.boxes{
+	background-color: #1A237E;
+	padding-top: 0.5%;
+}
+.leftbox{
+	height: auto;
+	width: 20%;
+	border: 2px ;
+	border-color:;
+	background-color: #1A237E;
+	padding: 2% 2%;
+	color: white;
+	/*margin-top: 78%;*/
+
+}
+.rightbox{
+	height: auto;
+	width: 25%;
+	border: 2px ;
+	border-color:;
+	float: right;
+	background-color:  #1A237E;
+	margin-top:-34%;
+	margin-left:22%;
+    padding:2%;	
+}
+.image2 img{
+	position:center;
+	border-radius:60%;
+}
